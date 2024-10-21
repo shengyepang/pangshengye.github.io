@@ -45,9 +45,9 @@ For students who are interested in joining our research group as a Master’s st
 
 # 📝 Publications
 
-- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/83097ffc-8dbb-41d6-a882-01cf7554ce96" alt="apple-touch-icon" width="60" height="15"></span> [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin.  [CCF-B]
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/83097ffc-8dbb-41d6-a882-01cf7554ce96" alt="apple-touch-icon" width="60" height="15"></span> [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [CCF-B]
 
-- Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024**. [CCF-A]
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/302ff955-a6c8-4ca1-a43a-366e91b335b6" alt="apple-touch-icon" width="60" height="15"></span> [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [CCF-A]
 
 - **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024**. [中科院1区]
 
