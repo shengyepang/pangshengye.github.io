@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
 
 I am currently an Assistant Professor at the School of Computer Engineering and Science at Shanghai University, affiliated with the <a href='https://scdm-shu.github.io'> SCDM </a> research team. 
 
