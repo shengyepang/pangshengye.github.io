@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Shengye Pang"
 description              : "Assistant Professor in the School of Computer Engineering and Science, SCDM Lab, Shanghai University. Research interests include Service Computing and Cloud-Edge Computing."
-repository               : "shengyepang/pangshengye.github.io"
+repository               : "pangshengye/pangshengye.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
