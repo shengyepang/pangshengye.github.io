@@ -45,7 +45,7 @@ For students who are interested in joining our research group as a Master’s st
 
 # 📝 Publications
 
-- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/edcbb48f-4027-4a9e-bd60-16aa5af7acf0" alt="apple-touch-icon" width="50" height="15"></span> [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin.  [CCF-B]
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/83097ffc-8dbb-41d6-a882-01cf7554ce96" alt="apple-touch-icon" width="60" height="15"></span> [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin.  [CCF-B]
 
 - Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024**. [CCF-A]
 
