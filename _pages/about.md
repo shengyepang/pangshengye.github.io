@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor at the School of Computer Engineering and Science at Shanghai University, affiliated with the <a href='https://https://scdm-shu.github.io'> SCDM </a> research team. 
+I am currently an Assistant Professor at the School of Computer Engineering and Science at Shanghai University, affiliated with the <a href='https://scdm-shu.github.io'> SCDM </a> research team. 
 
 In 2024, I obtained my PhD from the School of Computer Science and Technology at Zhejiang University, under the supervision of Professor <a href='https://mypage.zju.edu.cn/0001038/'> Jianwei Yin </a> and co-supervised by Researcher <a href='https://person.zju.edu.cn/zjuzxk'> Xinkui Zhao </a>. My primary research focuses on service computing and edge-cloud computing, with a particular emphasis on pricing, transaction, and optimization scheduling of web services in service network environments. 
 
-For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me at pangsy AT shu.edu.cn.
+For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me at pangsy \[AT\] shu [dot] edu [dot] cn.
 
 
 
@@ -44,14 +44,9 @@ For students who are interested in joining our research group as a Master’s st
 
 # 📝 Selected Papers
 
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
-
 - **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024**. [CCF-B]
-- Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024**. [CCF-A]
 
+- Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024**. [CCF-A]
 
 - **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024**. [中科院1区]
 
@@ -65,21 +60,23 @@ For students who are interested in joining our research group as a Master’s st
 
 - Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCom 2018**. [CCF-C].
 
-</div>
-</div>
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- CCF中国服务计算创新大赛一等奖(2023)
+- 浙江大学CCNT实验室优秀研究生(2023)
+- 四十九届日内瓦国际发明展览会金奖(2022)
+- 二十五届中国发明展览会金奖(2021)
+- 浙江大学优秀博士研究生新生奖学金(2019)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2019.09 - 2024.09, Ph.D. in Computer Science and Technology, College of Computer science and technology, Zhejiang University. 
+- 2016.09 - 2019.06, M.Sc. in Computer Science and Technology, School of Computer Engineering and Science, Shanghai University.
+- 2011.09 - 2015.06, B.Eng. in Computer Science and Technology, College of Electronic and Information Engineering, Tongji University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Contact
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- E-Mail: pangsy \[AT\] shu [dot] edu [dot] cn
+- Room 407, School of Computer Engineering and Science, No. 371, Nanchen Road, Baoshan District, Shanghai, China
+
