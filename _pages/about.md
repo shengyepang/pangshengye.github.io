@@ -25,6 +25,7 @@ For students who are interested in joining our research group as a Master’s st
 
 </span>
 
+<span class='anchor' id='news'>
 
 # 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
@@ -41,6 +42,8 @@ For students who are interested in joining our research group as a Master’s st
 - *2023.05*: &nbsp;🎉🎉 A first-author regular paper has been accepted by **ICWS 2023**.
 - *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer.
 - *2022.03*: &nbsp;🎉🎉 An invention has been awarded the **Gold Medal** at the 49th Geneva International Invention Exhibition.
+
+</span>
 
 # 📝 Selected Papers
 
