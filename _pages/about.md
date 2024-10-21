@@ -15,7 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<section id="about-me">
 
 I am currently an Assistant Professor at the School of Computer Engineering and Science at Shanghai University, affiliated with the <a href='https://scdm-shu.github.io'> SCDM </a> research team. 
 
@@ -23,11 +22,9 @@ In 2024, I obtained my PhD from the School of Computer Science and Technology at
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me at pangsy \[AT\] shu [dot] edu [dot] cn.
 
-</section>
 
-<span class='anchor' id='news'>
 
-# 🔥 News
+# 🔥 News{#news}
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
 - *2024.09*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
 - *2024.08*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **TSC**.
@@ -43,7 +40,6 @@ For students who are interested in joining our research group as a Master’s st
 - *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer.
 - *2022.03*: &nbsp;🎉🎉 An invention has been awarded the **Gold Medal** at the 49th Geneva International Invention Exhibition.
 
-</span>
 
 # 📝 Selected Papers
 
