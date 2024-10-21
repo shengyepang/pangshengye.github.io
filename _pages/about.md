@@ -49,7 +49,8 @@ For students who are interested in joining our research group as a Master’s st
 
 - <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/302ff955-a6c8-4ca1-a43a-366e91b335b6" alt="apple-touch-icon" width="60" height="15"></span> [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [CCF-A]
 
-- **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **TST 2024**. [中科院1区]
+
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/ebc5b37c-bf5e-4375-b5dd-f8f82686bd12" alt="apple-touch-icon" width="60" height="15"></span> [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [中科院1区]
 
 - **Shengye Pang**, Jiayin Luo, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **TOSN 2024**. [CCF-B]
 
