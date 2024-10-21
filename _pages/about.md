@@ -52,15 +52,16 @@ For students who are interested in joining our research group as a Master’s st
 
 - <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/ebc5b37c-bf5e-4375-b5dd-f8f82686bd12" alt="apple-touch-icon" width="60" height="15"></span> [Maximizing Overall Service Profit: Multi-Edge Service Pricing as a Stochastic Game Model](https://ieeexplore.ieee.org/document/10566008?denied=). **Shengye Pang**, Xinkui Zhao*, Jiayin Luo, Jintao Chen, Fan Wang, and Jianwei Yin. [中科院1区]
 
-- **Shengye Pang**, Jiayin Luo, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **TOSN 2024**. [CCF-B]
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/e3e96ba4-7750-4912-97c6-74270d53de46" alt="apple-touch-icon" width="60" height="15"></span> [DTSSN: A Distributed Trustworthy Sensor Service Network Architecture for Smart City](https://dl.acm.org/doi/abs/10.1145/3649893). **Shengye Pang**, Jiayin Luo, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [CCF-B]
 
-- **Shengye Pang**, Xinkui Zhao, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **ICWS 2023**. [CCF-B]
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/9f615006-8450-4c90-8818-916ea98768dc" alt="apple-touch-icon" width="60" height="15"></span> [Incentive-Driven Pricing Game for Multi-edge Service Providers Towards Optimal Profits](https://ieeexplore.ieee.org/abstract/document/10248294). **Shengye Pang**, Xinkui Zhao, Jiayin Luo, Xiaolin Zheng, and Jianwei Yin. [CCF-B]
 
-- **Shengye Pang**, Jianwei Yin, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **ICSS 2020**. [Best Student Paper]
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/45bfaaa0-6755-402a-b100-80594129b4e5" alt="apple-touch-icon" width="60" height="15"></span> [Reference Service Process: A Normalized Cross-Over Service Collaboration Paradigm](https://ieeexplore.ieee.org/abstract/document/9283719). **Shengye Pang**, Jianwei Yin, Bangpeng Zheng, Tao Zheng and Qunxi Tian. [Best Student Paper]
+![ijwsr2019](https://github.com/user-attachments/assets/79660486-9fc5-4f1d-a599-c2352c04cfab)
 
-- **Shengye Pang**, Guobing Zou, Yanglan Gan, Sen Niu, and Bofeng Zhang. [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391) **IJWSR 2019**.
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/79660486-9fc5-4f1d-a599-c2352c04cfab" alt="apple-touch-icon" width="60" height="15"></span> [Augmenting Labeled Probabilistic Topic Model for Web Service Classification](https://www.igi-global.com/article/augmenting-labeled-probabilistic-topic-model-for-web-service-classification/220391). **Shengye Pang**, Guobing Zou, Yanglan Gan, Sen Niu, and Bofeng Zhang.
 
-- Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCom 2018**. [CCF-C].
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/0a520ece-b347-498d-9722-d0ddf9231461" alt="apple-touch-icon" width="60" height="15"></span> Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). [CCF-C].
 
 <span class='anchor' id='honors-and-awards'></span>
 
