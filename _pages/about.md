@@ -41,8 +41,9 @@ For students who are interested in joining our research group as a Master’s st
 - *2023.03*: &nbsp;🎉🎉 A book titled **"Convergence in Crossover Service"** has been published by Springer.
 - *2022.03*: &nbsp;🎉🎉 An invention has been awarded the **Gold Medal** at the 49th Geneva International Invention Exhibition.
 
+<span class='anchor' id='publications'></span>
 
-# 📝 Selected Papers
+# 📝 Publications
 
 - <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/e774311c-9811-4df0-9f53-b4c00862a73e" alt="apple-touch-icon" width="50" height="15"></span> [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin.  [CCF-B]
 
@@ -60,7 +61,7 @@ For students who are interested in joining our research group as a Master’s st
 
 - Guobing Zou, **Shengye Pang**, Pengwei Wang, Huaikou Miao, Sen Niu, Yanglan Gan, and Bofeng Zhang. [Neighborhood-Based Uncertain QoS Prediction of Web Services via Matrix Factorization](https://link.springer.com/chapter/10.1007/978-3-030-12981-1_46). **CollaborateCom 2018**. [CCF-C].
 
-
+<span class='anchor' id='honors-and-awards'></span>
 
 # 🎖 Honors and Awards
 
@@ -70,12 +71,16 @@ For students who are interested in joining our research group as a Master’s st
 - 二十五届中国发明展览会金奖(2021)
 - 浙江大学优秀博士研究生新生奖学金(2019)
 
+<span class='anchor' id='educations'></span>
+
 # 📖 Educations
 - 2019.09 - 2024.09, Ph.D. in Computer Science and Technology, College of Computer science and technology, Zhejiang University. 
 - 2016.09 - 2019.06, M.Sc. in Computer Science and Technology, School of Computer Engineering and Science, Shanghai University.
 - 2011.09 - 2015.06, B.Eng. in Computer Science and Technology, College of Electronic and Information Engineering, Tongji University.
 
-# 💬 Contact
+<span class='anchor' id='contacts'></span>
+
+# 💬 Contacts
 
 - E-Mail: pangsy \[AT\] shu [dot] edu [dot] cn
 - Room 407, School of Computer Engineering and Science, No. 371, Nanchen Road, Baoshan District, Shanghai, China
