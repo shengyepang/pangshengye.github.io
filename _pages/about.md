@@ -23,9 +23,9 @@ In 2024, I obtained my PhD from the School of Computer Science and Technology at
 
 For students who are interested in joining our research group as a Master’s student or intern, please feel free to contact me at pangsy \[AT\] shu [dot] edu [dot] cn.
 
+<span class='anchor' id='news'></span>
 
-
-# 🔥 News{#news}
+# 🔥 News
 - *2024.10*: &nbsp;🎉🎉 Joined the School of Computer Engineering and Science at **Shanghai University** as an **Assistant Professor**.
 - *2024.09*: &nbsp;🎉🎉 Obtained a **PhD** from the School of Computer Science and Technology at **Zhejiang University**.
 - *2024.08*: &nbsp;🎉🎉 A co-authored regular paper has been accepted by **TSC**.
