@@ -44,7 +44,7 @@ For students who are interested in joining our research group as a Master’s st
 
 # 📝 Selected Papers
 
-- **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin. [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **TAAS 2024**. [CCF-B]
+- <span style="display: inline-block; vertical-align: bottom;"><img src="https://github.com/user-attachments/assets/e774311c-9811-4df0-9f53-b4c00862a73e" alt="apple-touch-icon" width="50" height="15"></span> [Adaptive Scheduling of High-Availability Drone Swarms for Congestion Alleviation in CAVs](https://dl.acm.org/doi/abs/10.1145/3673905). **Shengye Pang**, Yi Li, Zhen Qin, Xinkui Zhao, Jintao Chen, Fan Wang, and Jianwei Yin.  [CCF-B]
 
 - Jintao Chen, **Shengye Pang**, Meng Xi, Tiancheng Zhao, Shuiguang Deng, and Jianwei Yin. [Service Regulation Analysis Framework for Service Design Time: A Case Study of Internet Healthcare Service](https://ieeexplore.ieee.org/abstract/document/10660508). **TSC 2024**. [CCF-A]
 
